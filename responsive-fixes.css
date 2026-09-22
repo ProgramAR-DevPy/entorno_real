@@ -1,0 +1,13 @@
+.hero { grid-template-columns: 52% 48%; }
+.hero-content { padding-right: 32px; max-width: 750px; min-width: 0; }
+.hero h1 { font-size: clamp(48px, 5vw, 72px); overflow-wrap: normal; }
+.hero-visual { min-width: 0; }
+
+@media (max-width: 900px) {
+  .hero { grid-template-columns: minmax(0, 1fr); height: auto; min-height: 900px; max-height: none; }
+  .hero-content { width: 100%; max-width: 100%; padding: 150px 25px 60px; }
+}
+
+@media (max-width: 600px) {
+  .hero h1 { font-size: 40px; letter-spacing: -.06em; }
+}
