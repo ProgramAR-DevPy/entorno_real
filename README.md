@@ -86,3 +86,26 @@ La ilustración principal fue generada específicamente para esta landing. Se di
 Desarollado por 
 
 Ignacio Merelle
+Desarollado por kjfhadgafd
+gasd
+fhs
+fdgh
+d
+fgh
+jd
+gfhj
+kfdghjlkasjhdfvñkjahdfñvkhadfñkvasdf
+hsdfghdsfg
+hdsfghokdfjghkoñljsafdjgadfk
+gap
+dfgkj
+adjfga
+ñofg
+aofja
+opfgja
+dfgojadfgo
+p
+jaofpgj
+adfopgj
+adfpogjadfpgojfg
+adop
