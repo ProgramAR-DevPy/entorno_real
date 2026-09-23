@@ -81,3 +81,6 @@ Ante dolor intenso, incapacidad para apoyar peso, bloqueo de la rodilla, hinchaz
 ## Recursos visuales
 
 La ilustración principal fue generada específicamente para esta landing. Se diseñó como una visualización médica educativa y no representa las imágenes reales de la resonancia del paciente.
+
+
+Desarollado por 
