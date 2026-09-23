@@ -1,3 +1,11 @@
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #07121bf2;
+  backdrop-filter: blur(12px);
+}
+
 .hero { grid-template-columns: 52% 48%; }
 .hero-content { padding-right: 32px; max-width: 750px; min-width: 0; }
 .hero h1 { font-size: clamp(48px, 5vw, 72px); overflow-wrap: normal; }
