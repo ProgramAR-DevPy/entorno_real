@@ -84,3 +84,5 @@ La ilustración principal fue generada específicamente para esta landing. Se di
 
 
 Desarollado por 
+
+Ignacio Merelle
