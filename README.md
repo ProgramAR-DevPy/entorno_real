@@ -2,7 +2,7 @@
 
 Landing page educativa en español que traduce un informe de resonancia magnética de rodilla derecha a información clara sobre cuidados iniciales, movimientos que conviene evitar, señales de alarma y preparación para la consulta médica.
 
-## Contenido
+## Contenidos de la pagina web.
 
 La página organiza los hallazgos informados:
 
